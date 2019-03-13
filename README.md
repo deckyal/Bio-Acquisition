@@ -21,7 +21,10 @@ Libraries needed :
   
 1. The main file is viewer.py which can be evoked directly : python viewer.py
 2. The viewer.ui is the designer file which you can edit via pyqt designer (or pyqt creator). 
-
+3. configurations : 
+    1. meta.txt : change in to 0 when you want to refresh the counter 
+    2. config.py : change the parameters to suit your need. 
+    
 License : standard GPL. 
 
 If you find this useful, you may cite our paper which used this acqusition tools : 
