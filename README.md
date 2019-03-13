@@ -1,11 +1,11 @@
 # Bio-Acquisition
 This is the Repository of our Bio-medical data acquisition (ECG-EDA + Camera) software. It is purely implemented using python + QT
 
-Spec : 
-  1. Python 2.7
+Specs : 
+  1. Python 2.7 based
   2. Record ECG-EDA (max 2 Khz)
   3. Camera (max 120 fps)
-  4. Threading Supports
+  4. Multi-Threading Supports
   5. Real time visualization
 
 screenshoot : 
