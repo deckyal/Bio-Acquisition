@@ -11,7 +11,7 @@ Spec :
 screenshoot : 
 
 
-Manual : 
+Manual : manual.odt
 
 
 Libraries needed : 
