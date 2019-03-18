@@ -1,5 +1,5 @@
 # Bio-Acquisition
-This is the Repository of our Bio-medical data acquisition (ECG-EDA + Camera) software. It is purely implemented using python + QT
+[Software] This is the Repository of our Bio-medical data acquisition (ECG-EDA + Camera) software. It is purely implemented using python + QT
 
 Specs : 
   1. Python 2.7 based
