@@ -9,7 +9,7 @@ Specs :
   5. Real time visualization
 
 screenshoot : 
-![Static Screenshoot](screen.png)
+![Static Screenshoot](screenshot.PNG)
 
 Manual : manual.odt
 
