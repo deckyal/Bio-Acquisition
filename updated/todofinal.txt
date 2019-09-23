@@ -1,0 +1,9 @@
+pushButtonDel
+pushButtonPlotToIn
+pushButtonToEx
+pushPlayback
+
+1. transfer
+2. optimize save and read
+3. synchronize? 
+4. testing = reduce the fps and sampling on reading

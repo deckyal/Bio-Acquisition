@@ -1,0 +1,11 @@
+1.multiprocess * 
+2.start saving each time. nope
+
+3.disable camera, and loading*
+4. enable without external * 
+5. display other signal*
+
+*******************************
+1.multiprocess. nope, for now
+2.save the other. fine
+4. enable without external. fine

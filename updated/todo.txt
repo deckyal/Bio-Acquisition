@@ -1,0 +1,18 @@
+Friday. 
+1. make the image fetching on the QThread #done.
+2. Fix the second displaying, make on the other Qthread. 
+	1. each graph display on thread . 
+Tuesday
+
+Friday - Tuesday. Wednesday
+3. The re-displaying given one record
+	1. Make the video, sampled every 30 sample /second.
+	2. Make the ECG/EDA, sampled every 300 samples / second
+	3. Play simultaneously  for i of 0 to number of video samples
+					for j of 0+i to 0+(i*10) 
+						print sample vide[j] #plot
+					print sample vid[j] #update canvas
+4. Record listing, replay and delete
+
+Tuesday - Thursday. 
+5. questionnare. 
