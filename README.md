@@ -29,4 +29,11 @@ License : standard GPL.
 
 If you find this useful, you may cite our paper which used this acqusition tools : 
 
-xxxxx
+@misc{comas2019endtoend,
+    title={End-to-end facial and physiological model for Affective Computing and applications},
+    author={Joaquim Comas and Decky Aspandi and Xavier Binefa},
+    year={2019},
+    eprint={1912.04711},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
