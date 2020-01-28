@@ -29,6 +29,8 @@ License : standard GPL.
 
 If you find this useful, you may cite our paper which used this acqusition tools : 
 
+End-to-end facial and physiological model for Affective Computing and applications
+
 @misc{comas2019endtoend,
     title={End-to-end facial and physiological model for Affective Computing and applications},
     author={Joaquim Comas and Decky Aspandi and Xavier Binefa},
